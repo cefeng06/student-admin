@@ -53,8 +53,8 @@ export const SeatMap: FC = () => {
             row = row + 1 > maxRow ? 1 : row + 1;
             col = col + 1 > maxColumn ? 1 : col + 1;
             if (row === 1 && col === 1) {
-                row = maxRow;
-                col = maxColumn;
+                row = 2;
+                col = 2;
             };
             list[id].seat = [row, col];
             setList({ ...list });

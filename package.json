@@ -2,7 +2,7 @@
   "name": "student-admin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ce.feng.github.io/student-admin",
+  "homepage": "https://cefeng06.github.io/student-admin",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
